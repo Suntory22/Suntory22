@@ -4,7 +4,7 @@ Hi there 👋
 
 🌱 I’m currently learning sql
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate whith you!
 
 🤔 I’m looking for help with web security
 
